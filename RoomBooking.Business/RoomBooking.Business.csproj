@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RoomBooking.Common\RoomBooking.Common.csproj" />
+    <ProjectReference Include="..\RoomBooking.Dal\RoomBooking.Dal.csproj" />
+  </ItemGroup>
+
+</Project>
